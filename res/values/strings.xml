@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeoTranslator</string>
+    <string name="action_settings">Settings</string>
+    <string name="ChoiceText">Choose one of the radio buttons below</string>
+    <string name="GermanToEnglish">German To English</string>
+    <string name="EnglishToGerman">English to German</string>
+</resources>
